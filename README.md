@@ -103,7 +103,7 @@ An Android application for quickly counting cash and coins with a clean interfac
 A Python tool that filters and analyzes IMDb datasets to generate customized movie recommendations.
 
 ---
-#### 📸 [Cyberflight Studios Website](https://cyberflight.studio)
+#### 📸 [Cyberflight Studios Website](https://github.com/klassiccole/Cyberflight_Studios_Website)
 A website I designed, developed, and maintain for my digital media business. This project includes website development, content organization, and database-related work.
 
 <a id="cyberflight-studios"></a>
