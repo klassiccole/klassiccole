@@ -3,13 +3,11 @@
 -->
 
 <!-- Typing animation -->
-   <p align="center">
-     <img
- src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E6E6E&cent
- er=true&vCenter=true&width=900&lines=Designer+and+Engineer+%F0%9F%9B%A0%EF%B8%8F;Software+Deve
- loper+%F0%9F%92%BB;AI-Assisted+Development+%F0%9F%A7%A0;Founder+of+Cyberflight+Studios+%F0%9F%
- 93%B8" alt="Typing animation" />
-   </p>
+   [![Typing
+ animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E6E6
+ E&center=true&vCenter=true&width=900&lines=Designer+and+Engineer+%F0%9F%9B%A0%EF%B8%8F;Softwar
+ e+Developer+%F0%9F%92%BB;AI-Assisted+Development+%F0%9F%A7%A0;Founder+of+Cyberflight+Studios+%
+ F0%9F%93%B8)](https://git.io/typing-svg)
 
 # Cole Dorazio 🏍️
 
