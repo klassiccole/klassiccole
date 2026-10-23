@@ -2,7 +2,6 @@
 **KlassicCole/KlassicCole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- 
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Cole+Dorazio!+%F0%9F%8F%8D%EF%B8%8F;I+write+code+that+does+the+boring+stuff+for+me.+%F0%9F%94%A7;Forging+code+like+steel.+%E2%9A%92%EF%B8%8F;Let's+automate+some+things.+%F0%9F%A4%96" alt="Typing SVG" />
@@ -28,8 +27,6 @@ I care about clear solutions, thoughtful design, and responsible use of technolo
      <a href="#lets-connect">Contact</a>
    </p>
 
-<br/>
-
 <a id="designer"></a>
 ## ✏️ Designer 
 Design is how I map ideas into clear, useful, and visually organized results while leaving room for flexibility and iteration. I have experience using Figma for digital design and interface work, and I use AI-assisted tools to quickly explore and prototype ideas. I also believe that broad scope ideas sometimes begin best with pen and paper before being refined into thoughtful layouts, structures, and interactions.
@@ -45,8 +42,6 @@ I pay close attention to detail and take pride in creating work that is polished
    <img src="https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat-square" alt="Adobe Lightroom" />
    <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square" alt="Adobe Illustrator" />
  </p>
-
-<br/>
 
 <a id="developer-and-engineer"></a>
 ## 💻 Developer and Engineer 
@@ -80,8 +75,6 @@ My experience and interests include:
  <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
   </p>
 
-<br/>
-
 <a id="ai-assisted-development"></a> 
 ## 🧠 AI-Assisted Development 
 
@@ -100,8 +93,6 @@ My approach is to use AI where it is efficient and verifiable while retaining hu
  <img src="https://img.shields.io/badge/-GLM-1C1C1C?style=flat-square" alt="GLM" />
 </p>
 
-<br/>
-
 ## 🧪 Projects I’m Proud Of
 
 #### 💰 [Currency Counter](https://github.com/KlassicCole/currency_calculator)
@@ -115,8 +106,6 @@ A Python tool that filters and analyzes IMDb datasets to generate customized mov
 #### 📸 [Cyberflight Studios Website](https://cyberflight.studio)
 A website I designed, developed, and maintain for my digital media business. This project includes website development, content organization, and database-related work.
 
-<br/>
-
 <a id="cyberflight-studios"></a>
 ## 📸 Cyberflight Studios
 
@@ -128,8 +117,6 @@ I’m the founder of [Cyberflight Studios](https://cyberflight.studio), a digita
 - [TikTok](https://www.tiktok.com/@cyberflightstudios)
 - [YouTube](https://www.youtube.com/@cyberflightstudios)
 - [Website](https://cyberflight.studio)
-
-<br/>
 
 <a id="3d-design-and-printing"></a>
 ## 🧩 3D Design and Printing 
@@ -147,8 +134,6 @@ I’m the founder of [Cyberflight Studios](https://cyberflight.studio), a digita
    - Prototyping
    - Design iteration
    - Practical problem-solving
-
-<br/>
 
 <a id="lets-connect"></a>
 ## Let’s Connect 🔗
