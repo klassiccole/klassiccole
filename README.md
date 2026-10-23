@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E6E6E&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Cole+Dorazio!+%F0%9F%8F%8D%EF%B8%8F;I+write+code+that+does+the+boring+stuff+for+me.+%F0%9F%94%A7;Forging+code+like+steel.+%E2%9A%92%EF%B8%8F;Let's+automate+some+things.+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
-# Cole Dorazio
+# 🏍️ Cole Dorazio
 
 I’m a designer, developer, and engineer focused on building useful digital experiences and solving practical problems. My work spans web development, application development, automation, data, and AI-assisted workflows. My degree is in Computer Science with a focus in Artificial Intelligence.
 
