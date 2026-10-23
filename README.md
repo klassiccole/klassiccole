@@ -24,7 +24,9 @@ I care about clear solutions, thoughtful design, and responsible use of technolo
      &nbsp;·&nbsp;
      <a href="#cyberflight-studios">Cyberflight Studios</a>
      &nbsp;·&nbsp;
-     <a href="#lets-connect">Contact</a>
+     <a href="#3d-design-and-printing">3D Design and Printing</a>
+     &nbsp;·&nbsp;
+     <a href="#lets-connect">Contact Me</a>
    </p>
 
 <a id="designer"></a>
@@ -134,7 +136,7 @@ alt="Cyberflight Studios TikTok" />
 
 3D design and printing are hands-on ways for me to explore engineering, product development, and physical problem-solving. I create models using Fusion 360 and SOLIDWORKS, then use 3D printing to turn digital concepts into physical objects.
 
- ### Find My Designs
+ ### Find My Designs:
 
 <p align="center">
   <a href="https://makerworld.com/en/@KlassicCole">
