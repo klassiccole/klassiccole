@@ -132,19 +132,21 @@ alt="Cyberflight Studios TikTok" />
 <a id="3d-design-and-printing"></a>
 ## 🧩 3D Design and Printing 
 
-   I use Fusion 360 to create 3D models and explore physical design concepts. I also use 3D
- printing to turn digital designs into physical objects and refine ideas through hands-on
- experimentation.
+3D design and printing are hands-on ways for me to explore engineering, product development, and physical problem-solving. I create models using Fusion 360 and SOLIDWORKS, then use 3D printing to turn digital concepts into physical objects.
 
-   This work has helped me develop experience with:
+ ### Find My Designs
 
-   - 3D modeling
-   - CAD design
-   - Product visualization
-   - 3D printing
-   - Prototyping
-   - Design iteration
-   - Practical problem-solving
+<p align="center">
+  <a href="https://makerworld.com/en/@KlassicCole">
+    <img src="https://img.shields.io/badge/-MakerWorld-00AEEF?style=flat-square" alt="KlassicCole on MakerWorld" />
+  </a>
+  <a href="https://www.printables.com/@KlassicCole_4758752">
+    <img src="https://img.shields.io/badge/-Printables-FA6831?style=flat-square&logo=printables&logoColor=white" alt="KlassicCole on Printables" />
+  </a>
+  <a href="https://www.thingiverse.com/KlassicCole/">
+    <img src="https://img.shields.io/badge/-Thingiverse-248BFB?style=flat-square&logo=thingiverse&logoColor=white" alt="KlassicCole on Thingiverse" />
+  </a>
+</p>
 
 <a id="lets-connect"></a>
 ## Let’s Connect 🔗
