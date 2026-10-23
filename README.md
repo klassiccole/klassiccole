@@ -113,10 +113,21 @@ I’m the founder of [Cyberflight Studios](https://cyberflight.studio), a digita
 
 ### Cyberflight Studios Links
 
-- [Instagram](https://www.instagram.com/cyberflightstudios/)
-- [TikTok](https://www.tiktok.com/@cyberflightstudios)
-- [YouTube](https://www.youtube.com/@cyberflightstudios)
-- [Website](https://cyberflight.studio)
+<p align="center">
+  <a href="https://cyberflight.studio">
+    <img src="https://img.shields.io/badge/Cyberflight%20Studios-Website-222222?style=flat-square&logo=googlechrome&logoColor=white" alt="Cyberflight Studios website" />
+</a>
+  <a href="https://www.instagram.com/cyberflightstudios/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Cyberflight Studios Instagram" />
+</a>
+  <a href="https://www.tiktok.com/@cyberflightstudios">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"
+alt="Cyberflight Studios TikTok" />
+</a>
+  <a href="https://www.youtube.com/@cyberflightstudios">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Cyberflight Studios YouTube" />
+  </a>
+</p>
 
 <a id="3d-design-and-printing"></a>
 ## 🧩 3D Design and Printing 
