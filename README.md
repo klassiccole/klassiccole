@@ -18,15 +18,15 @@ I care about clear solutions, thoughtful design, and responsible use of technolo
 <p align="center">
      <a href="#designer">Designer</a>
      &nbsp;·&nbsp;
-     <a href="#developer-and-engineer">Developer and Engineer</a>
+     <a href="#developer-and-engineer">Developer</a>
      &nbsp;·&nbsp;
-     <a href="#ai-assisted-development">Artificial Intelligence</a>
+     <a href="#ai-assisted-development">AI Workflow</a>
      &nbsp;·&nbsp;
      <a href="#3d-design-and-printing">Projects</a>
      &nbsp;·&nbsp;
      <a href="#cyberflight-studios">Cyberflight Studios</a>
      &nbsp;·&nbsp;
-     <a href="#3d-design-and-printing">3D Design and Printing</a>
+     <a href="#3d-design-and-printing">3D Design</a>
      &nbsp;·&nbsp;
      <a href="#lets-connect">Contact Me</a>
    </p>
