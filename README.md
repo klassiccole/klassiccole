@@ -22,7 +22,7 @@ I care about clear solutions, thoughtful design, and responsible use of technolo
      &nbsp;·&nbsp;
      <a href="#ai-assisted-development">AI Workflow</a>
      &nbsp;·&nbsp;
-     <a href="#3d-design-and-printing">Projects</a>
+     <a href="#projects">Projects</a>
      &nbsp;·&nbsp;
      <a href="#cyberflight-studios">Cyberflight Studios</a>
      &nbsp;·&nbsp;
