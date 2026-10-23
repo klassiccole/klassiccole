@@ -20,7 +20,9 @@ I care about clear solutions, thoughtful design, and responsible use of technolo
      &nbsp;·&nbsp;
      <a href="#developer-and-engineer">Developer and Engineer</a>
      &nbsp;·&nbsp;
-     <a href="#ai-assisted-development">AI Workflows</a>
+     <a href="#ai-assisted-development">Artificial Intelligence</a>
+     &nbsp;·&nbsp;
+     <a href="#3d-design-and-printing">Projects</a>
      &nbsp;·&nbsp;
      <a href="#cyberflight-studios">Cyberflight Studios</a>
      &nbsp;·&nbsp;
@@ -95,6 +97,7 @@ My approach is to use AI where it is efficient and verifiable while retaining hu
  <img src="https://img.shields.io/badge/-GLM-1C1C1C?style=flat-square" alt="GLM" />
 </p>
 
+<a id="projects"></a> 
 ## 🧪 Projects I’m Proud Of
 
 #### 💰 [Currency Counter](https://github.com/KlassicCole/currency_calculator)
