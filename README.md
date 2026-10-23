@@ -61,7 +61,7 @@ My experience and interests include:
 - Turning Ideas into Working Software
 
 ---
-### 💻 Coding Languages and Applications
+### 💻 Coding Languages and Applications:
 
 <p align="center">
  <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -116,7 +116,7 @@ A website I designed, developed, and maintain for my digital media business. Thi
 
 I’m the founder of [Cyberflight Studios](https://cyberflight.studio), a digital media business focused on photography, videography, and drone work. I manage both the creative and technical sides of the business, including creating visual media, maintaining the website, and organizing its digital presence.
 
-### Cyberflight Studios Links
+### Cyberflight Studios Links:
 
 <p align="center">
   <a href="https://cyberflight.studio">
