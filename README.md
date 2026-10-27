@@ -9,7 +9,7 @@
 
 # 🏍️ Cole Dorazio
 
-I’m a designer, developer, and engineer focused on building useful digital experiences and solving practical problems. My work spans web development, application development, automation, data, and AI-assisted workflows. My degree is in Computer Science with a focus in Artificial Intelligence.
+I’m a designer, developer, and engineer focused on building useful digital experiences and solving practical problems. My work spans web development, application development, automation, data, and AI-assisted workflows. My degree is in Computer Science with a focus in Human Computer Interaction (Artificial Intelligence).
 
 I’m also the founder of [Cyberflight Studios](#cyberflight-studios), a digital media business focused on photography, videography, and drone work. Alongside software and business projects, I explore 3D design and printing as hands-on design and engineering work.
 
